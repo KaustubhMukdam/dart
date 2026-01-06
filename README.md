@@ -1,5 +1,2 @@
-# dart
-Commands in Terminal
-dart playground.dart
-
-## Fundamentals
+# Dart
+## YouTube Link: https://www.youtube.com/watch?v=Ej_Pcr4uC2Q&list=LL
